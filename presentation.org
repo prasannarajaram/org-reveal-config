@@ -1,0 +1,10 @@
+#+TITLE: Very Simple Presentation
+#+OPTIONS: toc:nil num:nil
+* Slide 1
+- An item
+- An item
+- An item
+* Slide 2
+This is also a slide
+* Slide 3
+More of the same
